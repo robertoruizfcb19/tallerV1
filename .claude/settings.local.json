@@ -6,7 +6,8 @@
       "Bash(mkdir:*)",
       "Bash(dotnet build:*)",
       "Bash(taskkill:*)",
-      "Bash(dotnet ef migrations:*)"
+      "Bash(dotnet ef migrations:*)",
+      "Bash(cmd //c taskkill //F //PID 28068)"
     ],
     "deny": [],
     "ask": []
